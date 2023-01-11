@@ -9,6 +9,7 @@ from nerf.provider import NeRFTouchDataset
 from nerf.gui import NeRFGUI
 from nerf.utils import *
 
+# just adding a comment
 
 from functools import partial
 from loss import huber_loss
