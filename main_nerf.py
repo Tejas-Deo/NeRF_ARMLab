@@ -10,6 +10,7 @@ from nerf.gui import NeRFGUI
 from nerf.utils import *
 
 # just adding a comment
+# adding second comment
 
 from functools import partial
 from loss import huber_loss
